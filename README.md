@@ -1,8 +1,8 @@
-This is a analysis of the Sales Data based on several parameters like analayis on the sales by employees and other parameters which will give insights of the overall sales.
+This is a analysis of the Sales Data based on several parameters like analayis on the sales by employees and other parameters which will provide insights of the overall sales.
 
 
 ## Project Objective
-To built a interactive and dynamic dashboard based on the analysis of internal sales analysis.
+To built a interactive and dynamic dashboard based on the analysis of internal sales data.
 This is built fully on Microsoft Excel.
 
 

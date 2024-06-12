@@ -3,14 +3,14 @@ This is a analysis of the Sales Data based on several parameters like analayis o
 
 
 ## Project Objective
-To built a interactive and dynamic dashboard based on the analysis of internal sales data.
+To build an interactive and dynamic dashboard based on the analysis of internal sales data.
 This is built fully on Microsoft Excel.
 
 
 
 
 ## More on this project
-The sales Data is analysed based on the following parameters:
+The sales Data is analyzed based on the following parameters:
 
 1. To determine which are the Top 10 Customers in the given years  based on sum of the selling price criteria.
 
@@ -20,7 +20,7 @@ The sales Data is analysed based on the following parameters:
 
 4. Comparing the Sales by Delivery persons.
 
-5. comparing the Cost prize, Selling price and Profits.
+5. Comparing the Cost prize, Selling price and Profits.
 
 6. Contribution of the Sales in the given years to the Grand total Sales.
 

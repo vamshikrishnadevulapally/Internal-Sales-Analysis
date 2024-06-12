@@ -1,5 +1,5 @@
 ## Introduction
-This is a analysis of the Sales Data based on several parameters like analayis on the sales by employees and other parameters which will provide insights of the overall sales.
+This is an analysis of the Sales Data based on several parameters like analayis on the sales by employees and other parameters which will provide insights of the overall sales.
 
 
 ## Project Objective
